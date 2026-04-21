@@ -1,0 +1,17 @@
+# Calculadora de Combustível
+
+Projeto Android desenvolvido para estudo de interface e lógica de cálculo de consumo, utilizando a estrutura clássica de views.
+
+## 🚀 Funcionalidades
+* Cálculo de média de consumo.
+* Interface estruturada em XML (Layouts tradicionais).
+* Navegação entre diferentes telas de parâmetros (Preço, Distância e Consumo).
+
+## 🛠️ Tecnologias
+* Kotlin
+* XML (Android Views)
+* Android Studio
+* Git/GitHub
+
+## 🏫 Escola Nova Era Tech
+ * https://escolanovaeratech.com.br/
